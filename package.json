@@ -21,6 +21,10 @@
         "nakama",
         "vscode"
     ],
+    "galleryBanner": {
+        "color": "#42B549",
+        "theme": "dark"
+    },
     "contributes": {
         "themes": [
             {
